@@ -38,8 +38,10 @@ I'm a recent graduate of Qaiwan International University | UTM Franchise, with a
 
 - **DevOps**
   
-- **Operating Systems**
-  - Proficient in using Windows/Linux/MacOS
+- **Proficient in using Operating Systems**
+  -  Windows
+  -  Linux
+  -  MacOS
 
 
 ### GitHub:

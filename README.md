@@ -50,7 +50,6 @@ I'm a recent graduate of Qaiwan International University | UTM Franchise, with a
 
 ## Experience
 
-- 💼 Worked at Smarthand Company for 1 year and 5 months.
 - 👨‍💻 Worked with OOP on an advanced level.
 - 👨‍💼 Can work on both Frontend and Backend of the projects.
 

@@ -37,6 +37,10 @@ I'm a recent graduate of Qaiwan International University | UTM Franchise, with a
   - PHP
 
 - **DevOps**
+  
+- **Operating Systems**
+  - Proficient in using Windows/Linux/MacOS
+
 
 ### GitHub:
 

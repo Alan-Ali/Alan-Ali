@@ -1,46 +1,54 @@
 # Hi there! 👋
 
-I'm a recent graduate of Qaiwan International University | UTM Franchise, with a strong foundation in programming and hands-on experience in various technologies. I've honed my skills through rigorous training in object-oriented programming (OOP), worked with databases and cloud services like AWS, Heroku, and Azure, and have practical experience in DevOps.
+I'm a recent graduate of Qaiwan International University | UTM Franchise, with a passion for programming and technology. Here's a bit about me:
 
 ## About Me
 
-- 🎓 Recent graduate with proficiency in multiple programming languages.
-- 💼 Over 1 year and 5 months of experience working at Smarthand Company.
-- 🚀 Experienced in website and mobile application development.
+- 🎓 Graduated from Qaiwan International University | UTM Franchise.
+- 💻 Proficient in various programming languages and technologies.
+- 🌟 Advanced level experience in Object-Oriented Programming (OOP).
+- 🛠️ Hands-on experience with databases and cloud services such as AWS, Heroku, Azure.
+- 🚀 Experience in using DevOps methodologies.
 
 ## Skills
 
-- 🌐 **Frontend Developer:**
-  - HTML, JSP, CSS, JavaScript
-  - Flutter (Mobile App Development)
+### Programming Languages & Technologies:
 
-- ⚙️ **Backend Developer:**
-  - NodeJS (Express.js)
-  - Java (Spring Framework)
+- **Frontend Development:**
+  - HTML
+  - JSP
+  - CSS
+  - JavaScript
+  - Flutter
 
-- 📱 **Mobile App Developer:**
+- **Backend Development:**
+  - Node.js (express.js)
+  - Java (Spring)
+
+- **Mobile App Development:**
   - Flutter Framework
 
-- 🛢️ **Database:**
+- **Databases:**
   - SQL (MySQL, Oracle)
 
-- 🐍 **Python:**
-  - Working on Discord bot © libraries
+- **Other Familiar Languages:**
+  - Python (Working on Discord bot © libraries)
+  - C/C++
+  - PHP
 
-- 💻 **Other Familiar Languages:**
-  - C++/C, PHP
+- **DevOps**
 
-- 🚀 **DevOps:**
-  - Proficient in using GitHub
+### GitHub:
 
-## Skills Highlights
+- 🛠️ Proficient in using GitHub for version control.
 
-- 🔗 Working with OOP on an advanced level.
-- 🖥️ Can work on both Frontend and Backend of projects.
-- 🔍 Proficient in using GitHub for version control.
-- 🛠️ Practical experience in DevOps practices.
+## Experience
+
+- 💼 Worked at Smarthand Company for 1 year and 5 months.
+- 👨‍💻 Worked with OOP on an advanced level.
+- 👨‍💼 Can work on both Frontend and Backend of the projects.
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](Your LinkedIn Profile URL)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alan-ali-0948ba211/)!
 

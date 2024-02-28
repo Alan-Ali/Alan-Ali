@@ -29,7 +29,9 @@ I'm a recent graduate of Qaiwan International University | UTM Franchise, A grad
   - Flutter Framework
 
 - **Databases:**
-  - SQL (MySQL, Oracle)
+  - MySQL
+  - Oracle
+  - PostgreSQL
 
 - **Other Familiar Languages:**
   - Python (Working on Discord bot © libraries)

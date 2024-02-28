@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a recent graduate of Qaiwan International University | UTM Franchise, with a passion for programming and technology. Here's a bit about me:
+I'm a recent graduate of Qaiwan International University | UTM Franchise, A graduate from August of 2023 with a passion for programming and technology. Here's a bit about me:
 
 ## About Me
 

@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a recent graduate of Qaiwan International University | UTM Franchise, A graduate from August of 2023 with a passion for programming and technology. Here's a bit about me:
+I'm a recent graduate of Qaiwan International University | UTM Franchise, a graduate from August of 2023 with a passion for programming and technology. Here's a bit about me:
 
 ## About Me
 
@@ -22,7 +22,9 @@ I'm a recent graduate of Qaiwan International University | UTM Franchise, A grad
   - Flutter
 
 - **Backend Development:**
-  - Node.js (express.js)
+  - Flask
+  - Django
+  - Node.js (Express.js)
   - Java (Spring)
 
 - **Mobile App Development:**
@@ -34,17 +36,23 @@ I'm a recent graduate of Qaiwan International University | UTM Franchise, A grad
   - PostgreSQL
 
 - **Other Familiar Languages:**
-  - Python (Working on Discord bot © libraries)
+  - Python (Working on Discord bot libraries)
   - C/C++
   - PHP
 
-- **DevOps**
-  
-- **Proficient in using Operating Systems**
-  -  Windows
-  -  Linux
-  -  MacOS
+- **DevOps:**
+  - Docker
+  - Jira
+  - Jenkins
+  - Kubernetes
+  - RabbitMQ
+  - gRPC
+  - KONG
 
+- **Proficient in using Operating Systems:**
+  - Windows
+  - Linux
+  - MacOS
 
 ### GitHub:
 
@@ -53,7 +61,10 @@ I'm a recent graduate of Qaiwan International University | UTM Franchise, A grad
 ## Experience
 
 - 👨‍💻 Worked with OOP on an advanced level.
-- 👨‍💼 Can work on both Frontend and Backend of the projects.
+- 👨‍💼 Experienced in both Frontend and Backend development.
+- 🌐 Hands-on experience with server works, including setting up and managing servers.
+- 🧩 Implemented microservices using gRPC and RabbitMQ for efficient communication and messaging.
+- 🔄 Managed containerized applications with Docker and Kubernetes for scalable deployments.
 
 ## Connect with Me
 
@@ -61,6 +72,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alan-ali-
 
 ## My Works
 
-- My Frontend designs are [Here](https://dribbble.com/Sherlockian/shots)
-- My Frontend development works: [Kaplan](https://kaplaniq.com/home),[All Win](https://all-win.co/),[101 Complex](https://101complex.com/),[Ocean Wave](https://ocean-wave.co/),[Ihsan Burhan](https://ihsanburhan.com/),[suleymaniyeh](https://sulaimaniy.com/), [Routeways](https://Rccl.org/)
-- My Published Mobile Development works: [Dr. Ihsan Burhanaddin on Google Play](https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan__a&hl=en&gl=US), [Dr. Ihsan Burhanaddin on App Store](https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266).
+- **Frontend Designs**: [Here](https://dribbble.com/Sherlockian/shots)
+- **Frontend Development**: [Kaplan](https://kaplaniq.com/home), [All Win](https://all-win.co/), [101 Complex](https://101complex.com/), [Ocean Wave](https://ocean-wave.co/), [Ihsan Burhan](https://ihsanburhan.com/), [Suleymaniyeh](https://sulaimaniy.com/), [Routeways](https://Rccl.org/)
+- **Mobile Development**:
+  - [Dr. Ihsan Burhanaddin on Google Play](https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan__a&hl=en&gl=US)
+  - [Dr. Ihsan Burhanaddin on App Store](https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266)

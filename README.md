@@ -1,5 +1,3 @@
-Of course! I'll remove Python from "Other Familiar Languages," and I'll add React to the frontend development section.
-
 # Hi there! 👋
 
 I'm a recent graduate from Qaiwan International University | UTM Franchise, graduating in August 2023. I have a deep passion for programming and technology. Here's a bit more about me:

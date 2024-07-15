@@ -33,6 +33,7 @@ I'm a recent graduate from Qaiwan International University | UTM Franchise, grad
 - MySQL
 - Oracle
 - PostgreSQL
+- redis
 
 #### Other Familiar Languages
 - C/C++

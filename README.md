@@ -15,10 +15,8 @@ I'm a recent graduate from Qaiwan International University | UTM Franchise, grad
 ### Programming Languages & Technologies
 
 #### Frontend Development
-- HTML
+- HTML, CSS, Vanilla JavaScript
 - JSP
-- CSS
-- Vanilla JavaScript
 - React
 
 #### Backend Development

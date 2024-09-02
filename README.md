@@ -86,6 +86,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alan-ali-
 - [Dr. Ihsan Burhanaddin on Google Play](https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan__a&hl=en&gl=US)
 - [Dr. Ihsan Burhanaddin on App Store](https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266)
 
----
-
-This updated structure should now be more accurate and organized. Let me know if you need any further adjustments!

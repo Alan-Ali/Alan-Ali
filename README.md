@@ -1,88 +1,81 @@
 # Hi there! 👋
 
-I'm a recent graduate from Qaiwan International University | UTM Franchise, graduating in August 2023. I have a deep passion for programming and technology. Here's a bit more about me:
+I'm a recent graduate from Qaiwan International University | UTM Franchise, graduating in August 2023. I have a passion for programming and technology, with a strong focus on software development and DevOps methodologies.
 
-## About Me
+## 🧑‍🎓 About Me
 
-- 🎓 Graduated from Qaiwan International University | UTM Franchise.
+- 🎓 Graduate of Qaiwan International University | UTM Franchise.
 - 💻 Proficient in multiple programming languages and technologies.
-- 🌟 Advanced experience in Object-Oriented Programming (OOP).
-- 🛠️ Hands-on experience with databases and cloud services including AWS, Heroku, and Azure.
-- 🚀 Experienced in using DevOps methodologies.
+- 🌟 Experienced in Object-Oriented Programming (OOP) and microservices architecture.
+- 🛠️ Skilled in database management, cloud services, and DevOps practices.
 
-## Skills
+## 🛠️ Skills
 
-### Programming Languages & Technologies
+### 🚀 Programming Languages & Technologies
 
-#### Frontend Development
-- HTML, CSS, Vanilla JavaScript
-- JSP, PHP
-- React
+#### **Frontend Development**
+- **Languages**: HTML, CSS, JavaScript (Vanilla)
+- **Frameworks**: React, JSP
+- **Technologies**: PHP
 
-#### Backend Development
-- Python (Flask, Django)
-- Node.js (Express.js)
-- Java (Spring)
-- Golang
+#### **Backend Development**
+- **Python**: Flask, Django
+- **Node.js**: Express.js
+- **Java**: Spring Framework
+- **Golang**: General backend and microservices
 
-#### Mobile App Development
-- Flutter Framework
+#### **Mobile App Development**
+- **Framework**: Flutter
 
-#### Databases
-- MySQL
-- Oracle
-- PostgreSQL
-- redis
-- Elasticsearch
+#### **Databases**
+- **Relational**: MySQL, PostgreSQL, Oracle
+- **NoSQL**: Redis, Elasticsearch
 
-#### Other Familiar Languages
+#### **Other Languages**
 - C/C++
 - PHP
 
-### DevOps Tools
-- Docker
-- Jira
-- Jenkins
-- Kubernetes
-- RabbitMQ
-- gRPC
-- KONG
+### 🛠 DevOps & Tools
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **CI/CD**: Jenkins
+- **Messaging Systems**: RabbitMQ, gRPC
+- **API Gateway**: KONG
+- **Project Management**: Jira
 
-### Operating Systems
+### 🖥 Operating Systems
 - Windows
 - Linux
-- MacOS
+- macOS
 
-### Version Control
-- 🛠️ Proficient in using GitHub for version control.
+### 🔄 Version Control
+- Git (GitHub, GitLab)
 
-## Experience
+## 💼 Experience
 
-- 👨‍💻 Advanced level experience in Object-Oriented Programming (OOP).
-- 👨‍💼 Proficient in both Frontend and Backend development.
-- 🌐 Hands-on experience with server management and configuration.
-- 🧩 Implemented microservices using gRPC and RabbitMQ for efficient communication and messaging.
-- 🔄 Managed containerized applications with Docker and Kubernetes for scalable deployments.
+- 👨‍💻 Advanced skills in Object-Oriented Programming (OOP).
+- 🌐 Full-stack developer with expertise in both frontend and backend technologies.
+- 🧩 Developed microservices with gRPC and RabbitMQ for efficient communication and messaging.
+- 🔧 Managed containerized applications using Docker and Kubernetes for scalable and resilient deployments.
+- ⚙️ Extensive experience in server management, configuration, and cloud services like AWS, Azure, and Heroku.
 
-## Connect with Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alan-ali-0948ba211/)!
-
-## My Works
+## 🌐 My Projects
 
 ### Frontend Designs
-- [Dribbble](https://dribbble.com/Sherlockian/shots)
+- Explore my design portfolio on [Dribbble](https://dribbble.com/Sherlockian/shots).
 
 ### Frontend Development
-- [Kaplan](https://kaplaniq.com/home)
-- [All Win](https://all-win.co/)
-- [101 Complex](https://101complex.com/)
-- [Ocean Wave](https://ocean-wave.co/)
-- [Ihsan Burhan](https://ihsanburhan.com/)
-- [Suleymaniyeh](https://sulaimaniy.com/)
-- [Routeways](https://Rccl.org/)
+- **[Kaplan](https://kaplaniq.com/home)** - Educational platform with interactive learning tools.
+- **[All Win](https://all-win.co/)** - Business solution for optimizing sales performance.
+- **[101 Complex](https://101complex.com/)** - Real estate website for property management.
+- **[Ocean Wave](https://ocean-wave.co/)** - E-commerce platform for sustainable products.
+- **[Ihsan Burhan](https://ihsanburhan.com/)** - Personal website for a medical professional.
+- **[Suleymaniyeh](https://sulaimaniy.com/)** - Cultural and travel site.
+- **[Routeways](https://Rccl.org/)** - NGO site focused on community outreach.
 
 ### Mobile Development
-- [Dr. Ihsan Burhanaddin on Google Play](https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan__a&hl=en&gl=US)
-- [Dr. Ihsan Burhanaddin on App Store](https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266)
+- **[Dr. Ihsan Burhanaddin on Google Play](https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan__a&hl=en&gl=US)**
+- **[Dr. Ihsan Burhanaddin on App Store](https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266)**
 
+## 📬 Connect with Me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alan-ali-0948ba211/) !

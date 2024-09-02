@@ -32,6 +32,7 @@ I'm a recent graduate from Qaiwan International University | UTM Franchise, grad
 - Oracle
 - PostgreSQL
 - redis
+- Elasticsearch
 
 #### Other Familiar Languages
 - C/C++

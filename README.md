@@ -23,6 +23,7 @@ I'm a recent graduate from Qaiwan International University | UTM Franchise, grad
 - Python (Flask, Django)
 - Node.js (Express.js)
 - Java (Spring)
+- Golang
 
 #### Mobile App Development
 - Flutter Framework

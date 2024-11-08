@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a recent graduate from Qaiwan International University | UTM Franchise, graduating in August 2023. I have a passion for programming and technology, with a strong focus on software development and DevOps methodologies.
+I have a passion for programming and technology, with a strong focus on software development and DevOps methodologies.
 
 ## 🧑‍🎓 About Me
 
@@ -49,6 +49,7 @@ I'm a recent graduate from Qaiwan International University | UTM Franchise, grad
 
 ### 🔄 Version Control
 - Git (GitHub, GitLab)
+- Docker (DockerHub)
 
 ## 💼 Experience
 

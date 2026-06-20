@@ -1,97 +1,112 @@
 Hey, I’m Alan Ali 👋
 
-Software Engineer • DevOps Engineer • Backend & Cloud Enthusiast
+Software Engineer • DevOps Engineer • Backend Engineer
 
-I build scalable applications, cloud-native systems, and developer-focused infrastructure. Over the past 4+ years, I’ve worked across frontend development, backend services, DevOps automation, microservices, and cloud platforms.
-
-I’m particularly interested in distributed systems, platform engineering, AI-powered applications, and building products that solve real-world problems.
+Building scalable systems, cloud infrastructure, microservices, and AI-powered applications.
 
 ⸻
 
-🚀 About Me
+Connect With Me
 
-* 💼 4+ years of professional software engineering experience
-* 🏗️ Designing and building scalable backend systems and APIs
-* ⚙️ Experienced in DevOps, CI/CD, automation, and infrastructure management
-* 🌐 Full-stack development experience across web and mobile platforms
-* 🔄 Strong background in microservices, event-driven architecture, and distributed systems
-* ☁️ Passionate about cloud technologies, containerization, and performance optimization
+<p align="left">
+  <a href="https://www.linkedin.com/in/alan-ali-0948ba211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ⸻
 
-🛠️ Tech Stack
+Current Focus
 
-Backend
+* Building scalable backend systems with Go
+* DevOps & Platform Engineering
+* Cloud-native applications
+* AI-powered products
+* Islamic technology and social platforms
 
-* Golang
-* Node.js (Express)
-* Python (Flask, Django)
-* Java (Spring)
+⸻
+
+Tech Stack
+
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,python,java,c,cpp,php,dart" />
+</p>
 
 Frontend
 
-* React
-* JavaScript (ES6+)
-* HTML5
-* CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring" />
+</p>
 
 Mobile
 
-* Flutter
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
 Databases
 
-* PostgreSQL
-* MySQL
-* Oracle
-* Redis
-* Elasticsearch
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch" />
+</p>
 
 DevOps & Cloud
 
-* Docker
-* Kubernetes
-* Jenkins
-* GitHub Actions
-* RabbitMQ
-* gRPC
-* Kong API Gateway
-* Linux Server Administration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,aws,azure,githubactions" />
+</p>
 
 Tools
 
-* Git
-* GitHub
-* GitLab
-* Jira
-* Docker Hub
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jira,vscode,bash" />
+</p>
 
 ⸻
 
-💡 What I Work On
+GitHub Statistics
 
-* Backend APIs and microservices
-* Cloud-native infrastructure
-* CI/CD pipelines and deployment automation
-* Containerized applications
-* Performance optimization
-* Distributed systems
-* DevOps and platform engineering
-* AI-powered applications
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ⸻
 
-🌟 Featured Projects
+Experience
+
+* 4+ years of software engineering experience
+* Backend development with Go, Node.js, Python, and Java
+* Microservices architecture using gRPC and RabbitMQ
+* CI/CD automation and infrastructure management
+* Container orchestration with Docker and Kubernetes
+* Cloud deployment and server administration
+* API design and distributed systems
+
+⸻
+
+Featured Projects
 
 Web Applications
 
-* Kaplan — Educational platform with interactive learning tools
-* All Win — Business solution focused on sales optimization
-* 101 Complex — Real-estate management platform
-* Ocean Wave — E-commerce platform
-* Ihsan Burhan — Professional healthcare website
-* Sulaimaniy — Tourism and cultural platform
-* Routeways — Community and NGO platform
+* Kaplan
+* All Win
+* 101 Complex
+* Ocean Wave
+* Ihsan Burhan
+* Sulaimaniy
+* Routeways
 
 Mobile Applications
 
@@ -100,25 +115,10 @@ Mobile Applications
 
 ⸻
 
-📈 Core Competencies
+Profile Views
 
-* Software Architecture
-* Object-Oriented Programming
-* Microservices Architecture
-* Event-Driven Systems
-* API Design
-* DevOps Practices
-* Infrastructure Automation
-* Cloud Deployments
-* System Design
-* Database Design
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ⸻
 
-📫 Connect With Me
-
-* LinkedIn: www.linkedin.com/in/alan-ali-0948ba211
-
-⸻
-
-Building reliable software, scalable infrastructure, and products that make an impact.
+Building software that scales, infrastructure that lasts, and products that matter.

@@ -79,7 +79,7 @@ GitHub Statistics
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Alan-Ali&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ⸻

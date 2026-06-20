@@ -75,8 +75,8 @@ Tools
 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-Ali&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Ali&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alan-Ali&theme=github-dark-blue&hide_border=true" />

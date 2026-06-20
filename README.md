@@ -94,35 +94,39 @@ Experience
 * Container orchestration with Docker and Kubernetes
 * API design, distributed systems, and cloud deployments
 
+<!--
+
 ⸻
 
-Featured Projects
+## Featured Projects
 
-Web Applications
+### Web Applications
 
-Project	Description
-Kaplan	Educational platform with interactive learning tools
-🔗 https://kaplaniq.com/home	
-All Win	Business solution focused on sales optimization
-🔗 https://all-win.co	
-101 Complex	Real-estate management platform
-🔗 https://101complex.com	
-Ocean Wave	E-commerce platform
-🔗 https://ocean-wave.co	
-Ihsan Burhan	Professional healthcare website
-🔗 https://ihsanburhan.com	
-Sulaimaniy	Tourism and cultural platform
-🔗 https://sulaimaniy.com	
-Routeways	Community and NGO platform
-🔗 https://rccl.org	
+| Project | Description |
+|---|---|
+| Kaplan | Educational platform with interactive learning tools |
+| 🔗 https://kaplaniq.com/home | |
+| All Win | Business solution focused on sales optimization |
+| 🔗 https://all-win.co | |
+| 101 Complex | Real-estate management platform |
+| 🔗 https://101complex.com | |
+| Ocean Wave | E-commerce platform |
+| 🔗 https://ocean-wave.co | |
+| Ihsan Burhan | Professional healthcare website |
+| 🔗 https://ihsanburhan.com | |
+| Sulaimaniy | Tourism and cultural platform |
+| 🔗 https://sulaimaniy.com | |
+| Routeways | Community and NGO platform |
+| 🔗 https://rccl.org | |
 
-Mobile Applications
+### Mobile Applications
 
-Dr. Ihsan Burhanaddin
+**Dr. Ihsan Burhanaddin**
 
-* Android: https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan__a
-* iOS: https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266
+- Android: https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan
+- iOS: https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266
 
+-->
 ⸻
 
 Core Competencies

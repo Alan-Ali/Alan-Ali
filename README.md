@@ -1,82 +1,124 @@
-# Hi there! 👋
+Hey, I’m Alan Ali 👋
 
-I have a passion for programming and technology, with a strong focus on software development and DevOps methodologies.
+Software Engineer • DevOps Engineer • Backend & Cloud Enthusiast
 
-## 🧑‍🎓 About Me
+I build scalable applications, cloud-native systems, and developer-focused infrastructure. Over the past 4+ years, I’ve worked across frontend development, backend services, DevOps automation, microservices, and cloud platforms.
 
-- 🎓 Graduate of Qaiwan International University | UTM Franchise.
-- 💻 Proficient in multiple programming languages and technologies.
-- 🌟 Experienced in Object-Oriented Programming (OOP) and microservices architecture.
-- 🛠️ Skilled in database management, cloud services, and DevOps practices.
+I’m particularly interested in distributed systems, platform engineering, AI-powered applications, and building products that solve real-world problems.
 
-## 🛠️ Skills
+⸻
 
-### 🚀 Programming Languages & Technologies
+🚀 About Me
 
-#### **Frontend Development**
-- **Languages**: HTML, CSS, JavaScript (Vanilla)
-- **Frameworks**: React
-- **Technologies**: PHP, JSP, EJS
+* 💼 4+ years of professional software engineering experience
+* 🏗️ Designing and building scalable backend systems and APIs
+* ⚙️ Experienced in DevOps, CI/CD, automation, and infrastructure management
+* 🌐 Full-stack development experience across web and mobile platforms
+* 🔄 Strong background in microservices, event-driven architecture, and distributed systems
+* ☁️ Passionate about cloud technologies, containerization, and performance optimization
 
-#### **Backend Development**
-- **Python**: Flask, Django
-- **Node.js**: Express.js
-- **Java**: Spring Framework
-- **Golang**: General backend and microservices
+⸻
 
-#### **Mobile App Development**
-- **Framework**: Flutter
+🛠️ Tech Stack
 
-#### **Databases**
-- **Relational**: MySQL, PostgreSQL, Oracle
-- **NoSQL**: Redis, Elasticsearch
+Backend
 
-#### **Other Languages**
-- C/C++
-- PHP
+* Golang
+* Node.js (Express)
+* Python (Flask, Django)
+* Java (Spring)
 
-### 🛠 DevOps & Tools
-- **Containerization & Orchestration**: Docker, Kubernetes
-- **CI/CD**: Jenkins
-- **Messaging Systems**: RabbitMQ, gRPC
-- **API Gateway**: KONG
-- **Project Management**: Jira
+Frontend
 
-### 🖥 Operating Systems
-- Windows
-- Linux
-- macOS
+* React
+* JavaScript (ES6+)
+* HTML5
+* CSS3
 
-### 🔄 Version Control
-- Git (GitHub, GitLab)
-- Docker (DockerHub)
+Mobile
 
-## 💼 Experience
+* Flutter
 
-- 👨‍💻 Advanced skills in Object-Oriented Programming (OOP).
-- 🌐 Full-stack developer with expertise in both frontend and backend technologies.
-- 🧩 Developed microservices with gRPC and RabbitMQ for efficient communication and messaging.
-- 🔧 Managed containerized applications using Docker and Kubernetes for scalable and resilient deployments.
-- ⚙️ Extensive experience in server management, configuration, and cloud services like AWS, Azure, and Heroku.
+Databases
 
-## 🌐 My Projects
+* PostgreSQL
+* MySQL
+* Oracle
+* Redis
+* Elasticsearch
 
-### Frontend Designs
-- Explore my design portfolio on [Dribbble](https://dribbble.com/Sherlockian/shots).
+DevOps & Cloud
 
-### Frontend Development
-- **[Kaplan](https://kaplaniq.com/home)** - Educational platform with interactive learning tools.
-- **[All Win](https://all-win.co/)** - Business solution for optimizing sales performance.
-- **[101 Complex](https://101complex.com/)** - Real estate website for property management.
-- **[Ocean Wave](https://ocean-wave.co/)** - E-commerce platform for sustainable products.
-- **[Ihsan Burhan](https://ihsanburhan.com/)** - Personal website for a medical professional.
-- **[Suleymaniyeh](https://sulaimaniy.com/)** - Cultural and travel site.
-- **[Routeways](https://Rccl.org/)** - NGO site focused on community outreach.
+* Docker
+* Kubernetes
+* Jenkins
+* GitHub Actions
+* RabbitMQ
+* gRPC
+* Kong API Gateway
+* Linux Server Administration
 
-### Mobile Development
-- **[Dr. Ihsan Burhanaddin on Google Play](https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan__a&hl=en&gl=US)**
-- **[Dr. Ihsan Burhanaddin on App Store](https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266)**
+Tools
 
-## 📬 Connect with Me
+* Git
+* GitHub
+* GitLab
+* Jira
+* Docker Hub
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alan-ali-0948ba211/) !
+⸻
+
+💡 What I Work On
+
+* Backend APIs and microservices
+* Cloud-native infrastructure
+* CI/CD pipelines and deployment automation
+* Containerized applications
+* Performance optimization
+* Distributed systems
+* DevOps and platform engineering
+* AI-powered applications
+
+⸻
+
+🌟 Featured Projects
+
+Web Applications
+
+* Kaplan — Educational platform with interactive learning tools
+* All Win — Business solution focused on sales optimization
+* 101 Complex — Real-estate management platform
+* Ocean Wave — E-commerce platform
+* Ihsan Burhan — Professional healthcare website
+* Sulaimaniy — Tourism and cultural platform
+* Routeways — Community and NGO platform
+
+Mobile Applications
+
+* Dr. Ihsan Burhanaddin (Android)
+* Dr. Ihsan Burhanaddin (iOS)
+
+⸻
+
+📈 Core Competencies
+
+* Software Architecture
+* Object-Oriented Programming
+* Microservices Architecture
+* Event-Driven Systems
+* API Design
+* DevOps Practices
+* Infrastructure Automation
+* Cloud Deployments
+* System Design
+* Database Design
+
+⸻
+
+📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/alan-ali-0948ba211
+
+⸻
+
+Building reliable software, scalable infrastructure, and products that make an impact.

@@ -150,6 +150,3 @@ Contact
 
 * LinkedIn: https://www.linkedin.com/in/alan-ali-0948ba211/
 
-⸻
-
-Building software that scales, infrastructure that lasts, and products that matter.

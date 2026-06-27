@@ -6,16 +6,6 @@ Building scalable systems, cloud infrastructure, microservices, and AI-powered a
 
 ⸻
 
-Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alan-ali-0948ba211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-⸻
-
 Current Focus
 
 * Building scalable backend systems with Go
@@ -150,7 +140,10 @@ Profile Views
 
 ⸻
 
-Contact
+Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/alan-ali-0948ba211/
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/alan-ali-0948ba211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>

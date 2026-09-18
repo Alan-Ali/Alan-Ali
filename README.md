@@ -119,6 +119,7 @@ Experience
 
 - Android: https://play.google.com/store/apps/details?id=com.kosary.library
 - iOS: https://apps.apple.com/ma/app/kosary-%DA%A9%DB%86%D8%B3%D8%A7%D8%B1%DB%8C/id6767371951?l=ar
+
 ⸻
 
 Core Competencies

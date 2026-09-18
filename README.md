@@ -84,8 +84,6 @@ Experience
 * Container orchestration with Docker and Kubernetes
 * API design, distributed systems, and cloud deployments
 
-<!--
-
 ⸻
 
 ## Featured Projects
@@ -94,19 +92,19 @@ Experience
 
 | Project | Description |
 |---|---|
-| Kaplan | Educational platform with interactive learning tools |
+| Kaplan
 | 🔗 https://kaplaniq.com/home | |
-| All Win | Business solution focused on sales optimization |
+| All Win
 | 🔗 https://all-win.co | |
-| 101 Complex | Real-estate management platform |
+| 101 Complex
 | 🔗 https://101complex.com | |
-| Ocean Wave | E-commerce platform |
+| Ocean Wave
 | 🔗 https://ocean-wave.co | |
-| Ihsan Burhan | Professional healthcare website |
+| Ihsan Burhan
 | 🔗 https://ihsanburhan.com | |
-| Sulaimaniy | Tourism and cultural platform |
+| Sulaimaniy
 | 🔗 https://sulaimaniy.com | |
-| Routeways | Community and NGO platform |
+| Routeways
 | 🔗 https://rccl.org | |
 
 ### Mobile Applications
@@ -116,7 +114,11 @@ Experience
 - Android: https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan
 - iOS: https://apps.apple.com/us/app/dr-ihsan-burhanaddin/id6476200266
 
--->
+
+**Kosary**
+
+- Android: https://play.google.com/store/apps/details?id=com.kosary.library
+- iOS: https://apps.apple.com/ma/app/kosary-%DA%A9%DB%86%D8%B3%D8%A7%D8%B1%DB%8C/id6767371951?l=ar
 ⸻
 
 Core Competencies

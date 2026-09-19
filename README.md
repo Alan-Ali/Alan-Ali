@@ -1,6 +1,6 @@
 # Hey, I’m Alan Ali 👋
 
-**Software Engineer • Full-Stack Developer • DevOps Engineer • AI Engineer**
+**Software Engineer • Full-Stack Developer • DevOps Engineer **
 
 Building web and mobile applications, backend systems, cloud infrastructure, CI/CD pipelines, and AI-powered applications.
 
